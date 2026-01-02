@@ -7,4 +7,4 @@ Better looking models for arrows and tridents!
 
 # Requires [EMF](https://modrinth.com/mod/entity-model-features/versions)!
 
-<img src="https://github.com/DominoWWW/Pixel-Projectiles/blob/main/readme-images/image.gif?raw=true" width="600"/>
+<img src="https://github.com/DominoWWW/Pixel-Projectiles/blob/main/readme-images/image.png?raw=true" width="600"/>
