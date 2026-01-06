@@ -1,6 +1,7 @@
 # Pixel Projectiles
 
 **Download: [Modrinth](https://modrinth.com/resourcepack/pixel-projectiles/version/latest)**
+
 Better looking models for arrows and tridents for minecraft 1.21.9 - 1.21.11!
 This resource pack only changes the entity models and not the item models.
 
